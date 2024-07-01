@@ -1,0 +1,8 @@
+{
+  "domain": "dev-pbahhf4mgjtjvfb1.us.auth0.com",
+  "clientId": "rCzYej9NbjEoqYMlnX8UxnNv3SUjuK7g",
+  "audience": "https://dev-pbahhf4mgjtjvfb1.us.auth0.com/api/v2/",
+  "m2mClientId": "1mlcYt4LOP77D7obvT2tEZHk364XRdfk",  
+  "m2mClientSecret": "x8ryTNMERzd_tTX7GlSnFvLsgV4htVBdYh4HnxqHwCMW9iTDFcK-KD1W0p6WZRGs",
+  "callbackUrl": "https://pizza42-e959f7742229.herokuapp.com"
+}
